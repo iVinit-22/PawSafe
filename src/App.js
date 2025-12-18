@@ -495,7 +495,7 @@ export default function App() {
            <div className="grid grid-cols-1 md:grid-cols-4 gap-12">
              <div className="col-span-1 md:col-span-2">
                <div className="flex items-center space-x-2 mb-4">
-                 <Dog className="w-6 h-6 text-amber-800 dark:text-amber-500" />
+                 <PawSafeLogo className="w-6 h-6" />
                  <span className="text-xl font-bold text-stone-800 dark:text-stone-100 font-serif">PawSafe</span>
                </div>
                <p className="text-stone-600 dark:text-stone-500 max-w-sm">

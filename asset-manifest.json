@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/PawSafe/static/css/main.28532ec0.css",
-    "main.js": "/PawSafe/static/js/main.0925547a.js",
+    "main.js": "/PawSafe/static/js/main.b4e6d671.js",
     "static/js/453.1d164268.chunk.js": "/PawSafe/static/js/453.1d164268.chunk.js",
     "static/media/pawsafe-logo.svg": "/PawSafe/static/media/pawsafe-logo.17d357abb879af15b4151cf167db8955.svg",
     "index.html": "/PawSafe/index.html",
     "main.28532ec0.css.map": "/PawSafe/static/css/main.28532ec0.css.map",
-    "main.0925547a.js.map": "/PawSafe/static/js/main.0925547a.js.map",
+    "main.b4e6d671.js.map": "/PawSafe/static/js/main.b4e6d671.js.map",
     "453.1d164268.chunk.js.map": "/PawSafe/static/js/453.1d164268.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.28532ec0.css",
-    "static/js/main.0925547a.js"
+    "static/js/main.b4e6d671.js"
   ]
 }

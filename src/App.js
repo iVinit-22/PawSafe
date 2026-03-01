@@ -522,7 +522,7 @@ export default function App() {
              </div>
            </div>
            <div className="mt-12 pt-8 border-t border-stone-200 dark:border-stone-900 flex flex-col md:flex-row justify-between items-center text-stone-500 text-sm">
-             <p>&copy; 2025 Pawsitive Coexistence. All rights reserved.</p>
+             <p>&copy; 2026 Pawsitive Coexistence. All rights reserved.</p>
              <div className="flex space-x-6 mt-4 md:mt-0">
                 <a href="https://x.com/" className="hover:text-stone-900 dark:hover:text-stone-400">X (Twitter)</a>
                 <a href="https://in.linkedin.com/" className="hover:text-stone-900 dark:hover:text-stone-400">LinkedIn</a>
